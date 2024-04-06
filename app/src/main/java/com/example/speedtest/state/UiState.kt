@@ -1,4 +1,4 @@
-package com.example.speedtest
+package com.example.speedtest.state
 
 //states model 
 class UiState(
